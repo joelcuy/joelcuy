@@ -1,12 +1,10 @@
-<div style="display: flex; justify-content: center; align-items: center">
-
-  <h1 style="display: inline;">
-    Hi, I'm Joel!
-  </h1>
+<div align="center">
+  <h1>Hi, I'm Joel!
   <img src="https://github.com/joelcuy/joelcuy/assets/78453846/bf082ac2-7710-4364-8b44-d907eb7c3823"
-       width="50px"
-       height="50px"
-       alt="hi">
+       width="40px"
+       height="40px"
+       alt="ball">
+  </h1>
 </div>
 
 <div align = 'center'>
