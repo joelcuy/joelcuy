@@ -1,13 +1,18 @@
+
+
+<div align = 'center'>
+
+</div>
 <h1 align='center'>
   Hi, I'm Joel!
   <img src="https://github.com/joelcuy/joelcuy/assets/78453846/bf082ac2-7710-4364-8b44-d907eb7c3823"
        width="50px"
        height="50px"
        alt="hi"
-       style="vertical-align: top;">
+       style="vertical-align: -25px;">
 </h1>
 
-<!-- ![giphy](https://github.com/joelcuy/joelcuy/assets/78453846/bf082ac2-7710-4364-8b44-d907eb7c3823) -->
+
 <div align = 'center'>
 
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=lightning&logoColor=792EE5)](#) -->
@@ -16,7 +21,7 @@
 
 </div>
 
-<h3>Languages</h3>
+## Languages
 <p align="left">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-037acb?style=for-the-badge&logo=typescript&logoColor=white">
