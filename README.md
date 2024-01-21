@@ -1,13 +1,13 @@
 <h1 align='center'>
   Hi, I'm Joel
-  <img src="https://media1.giphy.com/media/lR8x6JCXUf1j3hfdrp/giphy.gif"
+  <img src="https://github.com/joelcuy/joelcuy/assets/78453846/bf082ac2-7710-4364-8b44-d907eb7c3823"
        width="50px"
        height="50px"
        alt="hi"
        style="vertical-align: middle;">
-![giphy](https://github.com/joelcuy/joelcuy/assets/78453846/bf082ac2-7710-4364-8b44-d907eb7c3823)
 </h1>
 
+<!-- ![giphy](https://github.com/joelcuy/joelcuy/assets/78453846/bf082ac2-7710-4364-8b44-d907eb7c3823) -->
 <div align = 'center'>
 
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=lightning&logoColor=792EE5)](#) -->
