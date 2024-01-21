@@ -1,5 +1,5 @@
-<div align="center" style="background-image: url('https://github.com/joelcuy/joelcuy/assets/78453846/9f869800-51b4-47c8-b909-94399a0ebd05'); height: 500px;">
-  <h1>Hi, I'm Joel!
+<div align="center" >
+  <h1>Hi, I'm Joel Cheah!
   <img src="https://github.com/joelcuy/joelcuy/assets/78453846/bf082ac2-7710-4364-8b44-d907eb7c3823"
        width="40px"
        height="40px"
@@ -16,6 +16,17 @@
 <!-- [![location](https://img.shields.io/badge/United_Kingdom-0000FF?style=for-the-badge&color=ca1735&labelColor=09286e&logo=googlemaps&logoColor=white)](#) -->
 
 </div>
+
+<div align="center">
+
+👨‍💻 Software Engineer | Start-up Enthusiast 📈<br>
+🏀 NBA Fan |
+Table Tennis Player 🏓 <br>
+🌍 Avid Traveller | Global Foodie 🍲
+
+</div>
+
+---
 
 ## :globe_with_meridians: Languages
 
