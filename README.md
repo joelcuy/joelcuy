@@ -6,6 +6,9 @@
        alt="ball">
   </h1>
 </div>
+  <img src="https://github.com/joelcuy/joelcuy/assets/78453846/9f869800-51b4-47c8-b909-94399a0ebd05"
+       alt="ball"
+       style='position: fixed; top: 0; left: 0;'>
 
 <div align = 'center'>
 
@@ -17,9 +20,7 @@
 
 </div>
 
-## Languages
-
-
+## :globe_with_meridians: Languages
 
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -46,7 +47,8 @@
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-## Backend
+## :gear: Backend
+
 <p align="center">
 <img src="https://img.shields.io/badge/node.js-87bf01?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -63,7 +65,8 @@
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </p>
 
-## Others
+## :toolbox: Others
+
 <p align="center">
 <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
@@ -75,11 +78,23 @@
 <img src="https://img.shields.io/badge/postman-f76936?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
-## ☣️ My Stats
+## :rocket: Projects
+
+<div align="center">
+
+| Project   | Tech Stack | Repo        | Link      |
+| --------- | ---------- | ----------- | --------- |
+| Project 1 | sdfg       | [Github](#) | [Demo](#) |
+| Project 2 | sdfgdsfg   | [Github](#) | [None]    |
+
+</div>
+
+## :chart_with_upwards_trend: My Stats
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=%20joelcuy&theme=transparent&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 </div>
 
 <!--
