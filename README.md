@@ -4,7 +4,7 @@
        width="50px"
        height="50px"
        alt="hi"
-       style="vertical-align: bottom;">
+       style="vertical-align: top;">
 </h1>
 
 <!-- ![giphy](https://github.com/joelcuy/joelcuy/assets/78453846/bf082ac2-7710-4364-8b44-d907eb7c3823) -->
