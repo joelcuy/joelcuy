@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-image: url('https://github.com/joelcuy/joelcuy/assets/78453846/9f869800-51b4-47c8-b909-94399a0ebd05'); height: 500px;">
   <h1>Hi, I'm Joel!
   <img src="https://github.com/joelcuy/joelcuy/assets/78453846/bf082ac2-7710-4364-8b44-d907eb7c3823"
        width="40px"
@@ -6,9 +6,6 @@
        alt="ball">
   </h1>
 </div>
-  <img src="https://github.com/joelcuy/joelcuy/assets/78453846/9f869800-51b4-47c8-b909-94399a0ebd05"
-       alt="ball"
-       style='position: fixed; top: 0; left: 0;'>
 
 <div align = 'center'>
 
