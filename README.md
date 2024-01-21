@@ -6,6 +6,7 @@
        alt="ball">
   </h1>
 </div>
+<p>Currently based in London, United Kingdom. I grew up loving problem solving and decided to dive into programming to "try it out" and rest was history! </p>
 
 <div align = 'center'>
 
@@ -25,8 +26,6 @@ Table Tennis Player 🏓 <br>
 🌍 Avid Traveller | Global Foodie 🍲
 
 </div>
-
----
 
 ## :globe_with_meridians: Languages
 
