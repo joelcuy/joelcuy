@@ -1,27 +1,26 @@
+<div style="display: flex; justify-content: center; align-items: center">
 
-
-<div align = 'center'>
-
-</div>
-<h1 align='center'>
-  Hi, I'm Joel!
+  <h1 style="display: inline;">
+    Hi, I'm Joel!
+  </h1>
   <img src="https://github.com/joelcuy/joelcuy/assets/78453846/bf082ac2-7710-4364-8b44-d907eb7c3823"
        width="50px"
        height="50px"
-       alt="hi"
-       style="vertical-align: -100px;">
-</h1>
-
+       alt="hi">
+</div>
 
 <div align = 'center'>
 
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=lightning&logoColor=792EE5)](#) -->
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelcuy/)
+
 <!-- [![location](https://img.shields.io/badge/United_Kingdom-0000FF?style=for-the-badge&color=ca1735&labelColor=09286e&logo=googlemaps&logoColor=white)](#) -->
 
 </div>
 
 ## Languages
+
 <p align="left">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-037acb?style=for-the-badge&logo=typescript&logoColor=white">
