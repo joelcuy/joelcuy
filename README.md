@@ -1,9 +1,10 @@
 <h1 align='center'>
-  Hi, I'm Joel
+  Hi, I'm Joel!
   <img src="https://github.com/joelcuy/joelcuy/assets/78453846/bf082ac2-7710-4364-8b44-d907eb7c3823"
        width="50px"
        height="50px"
-       alt="hi">
+       alt="hi"
+       style="vertical-align: bottom;">
 </h1>
 
 <!-- ![giphy](https://github.com/joelcuy/joelcuy/assets/78453846/bf082ac2-7710-4364-8b44-d907eb7c3823) -->
