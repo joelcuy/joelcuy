@@ -85,17 +85,6 @@ Table Tennis Player 🏓 <br>
 <img src="https://img.shields.io/badge/postman-f76936?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
-## :rocket: Projects
-
-<div align="center">
-
-| Project   | Tech Stack | Repo        | Link      |
-| --------- | ---------- | ----------- | --------- |
-| Project 1 | sdfg       | [Github](#) | [Demo](#) |
-| Project 2 | sdfgdsfg   | [Github](#) | [None]    |
-
-</div>
-
 ## :chart_with_upwards_trend: My Stats
 
 <div align="center">
