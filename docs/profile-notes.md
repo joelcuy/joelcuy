@@ -1,15 +1,17 @@
 # Profile maintenance
 
-The public profile is `README.md`. Its content was refreshed in October 2026 from Joel's supplied CV, `wineflow-platform`, and `terraform-infra-shared`.
+The public profile is `README.md`. Its content was refreshed in October 2026 from Joel's supplied CV and current application and infrastructure work.
 
 ## Content decisions
 
-- The CV is the source for business outcomes, career history, education, certification, and personal details. The 76% hosting-cost reduction is a **target on migration completion**, not a completed saving.
-- Lead with Joel's transferable engineering achievements and measurable outcomes. Employer and product names are omitted from the public profile; the repositories provide evidence for the work and current stack.
+- Keep the profile concise and personal, highlighting a business perspective, a founder's mindset, and an interest in startup environments.
+- Combine engineering work into three highlights: workflow automation, shared business logic across apps, and cloud infrastructure with Terraform. Describe the UK logistics platform without naming the employer or products.
+- Discuss cloud benefits broadly. Keep private company initiatives and financial figures out of the repository.
 - Current package manifests and architecture informed the stack. Kysely is the runtime SQL query layer; Prisma owns the shared schema and generates Kysely types.
-- The six-service figure describes the original monorepo consolidation, not today's application count. Unreleased products are not presented as delivered achievements.
-- Removed older badge claims including Koa, Sequelize, Angular, Next.js, Apollo/GraphQL, MongoDB/Mongoose, Firebase, machine-learning libraries, and hardware/mobile tooling. Svelte and R remain in the earlier-work section because the CV supports them.
+- The CV supports education, certification, and personal details. Retain AWS Solutions Architect certification and Professional preparation; omit the earlier-work and peer-mentoring section.
+- Removed older badge claims including Koa, Sequelize, Angular, Next.js, Apollo/GraphQL, MongoDB/Mongoose, Firebase, machine-learning libraries, and hardware/mobile tooling.
 - Contact links use the existing LinkedIn URL and the CV's email. The CV's phone number and internal infrastructure details are omitted.
+- Avoid em dashes throughout the profile, artwork, and supporting files.
 
 ## Artwork
 
@@ -17,7 +19,9 @@ The public profile is `README.md`. Its content was refreshed in October 2026 fro
 node scripts/generate-assets.mjs
 ```
 
-Commit all four generated SVGs when changing the artwork. The README uses GitHub's `<picture>` pattern to select light or dark artwork. CSS animations are decorative; every frame has readable content, and `prefers-reduced-motion` disables motion. There are no external fonts, JavaScript in the SVGs, scheduled workflows, or hosted image APIs.
+Commit all four generated SVGs when changing the artwork. The README uses GitHub's `<picture>` pattern to select light or dark artwork. CSS animations are decorative; every frame has readable content, and `prefers-reduced-motion` disables motion. The custom artwork has no external fonts, JavaScript in the SVGs, scheduled workflows, or hosted image APIs.
+
+The My Stats section uses the original live GitHub Streak Stats card, with the username corrected to `joelcuy`. Its contribution and streak counts are fetched by the image service rather than written into the README.
 
 ## Design research
 
