@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Enjoy the rally</title>
+  <desc id="desc">Build things. Keep learning. Enjoy the rally. A table-tennis ball moves between two paddles.</desc>
+  <style>
+    .sans { font-family: 'Segoe UI', Arial, sans-serif; }
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }
+    .ball { animation: rally 4s ease-in-out infinite; }
+    @keyframes rally {
+      0%, 100% { transform: translate(0, 0); }
+      25% { transform: translate(101px, -22px); }
+      50% { transform: translate(202px, 0); }
+      75% { transform: translate(101px, -22px); }
+    }
+    @media (prefers-reduced-motion: reduce) { .ball { animation: none; } }
+  </style>
+  <rect x="1" y="1" width="1198" height="148" rx="20" fill="#f1f5f7" stroke="#c7d8e0"/>
+  <text class="mono" x="40" y="42" fill="#087f75" font-size="11" letter-spacing="2">BEYOND THE BUILD</text>
+  <text class="sans" x="40" y="80" fill="#122a3a" font-size="25" font-weight="600" letter-spacing="-.4">Build things. Keep learning. Enjoy the rally.</text>
+  <text class="mono" x="40" y="111" fill="#4b6576" font-size="12">TABLE TENNIS / NBA / GOOD FOOD / NEW PLACES</text>
+  <g transform="translate(842 0)">
+    <path d="M39 108H271M155 96V117" stroke="#c7d8e0" stroke-width="2"/>
+    <rect x="145" y="79" width="20" height="29" fill="#e6eef2"/>
+    <path d="M145 80H165M145 87H165M145 94H165M145 101H165M150 80V107M157 80V107M164 80V107" stroke="#c7d8e0" stroke-width=".7"/>
+    <g transform="translate(33 78) rotate(-18)">
+      <rect x="-3" y="13" width="6" height="20" rx="3" fill="#4b6576"/>
+      <ellipse rx="14" ry="19" fill="#087f75"/>
+      <path d="M-8 -9Q0 -15 7 -8" stroke="#f1f5f7" stroke-width="1.5" fill="none" opacity=".5"/>
+    </g>
+    <g transform="translate(277 78) rotate(18)">
+      <rect x="-3" y="13" width="6" height="20" rx="3" fill="#4b6576"/>
+      <ellipse rx="14" ry="19" fill="#a75519"/>
+      <path d="M-8 -9Q0 -15 7 -8" stroke="#f1f5f7" stroke-width="1.5" fill="none" opacity=".5"/>
+    </g>
+    <path d="M54 68Q155 24 256 68" fill="none" stroke="#c7d8e0" stroke-dasharray="2 7"/>
+    <circle class="ball" cx="54" cy="68" r="5" fill="#122a3a"/>
+  </g>
+</svg>

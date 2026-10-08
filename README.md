@@ -1,109 +1,89 @@
-<div align="center" >
-  <h1>Hi, I'm Joel Cheah!
-  <img src="https://github.com/joelcuy/joelcuy/assets/78453846/bf082ac2-7710-4364-8b44-d907eb7c3823"
-       width="40px"
-       height="40px"
-       alt="ball">
-  </h1>
-</div>
-<p>Currently based in London, United Kingdom. I grew up loving problem solving and decided to dive into programming to "try it out" and rest was history! </p>
-
-<div align = 'center'>
-
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=lightning&logoColor=792EE5)](#) -->
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelcuy/)
-
-<!-- [![location](https://img.shields.io/badge/United_Kingdom-0000FF?style=for-the-badge&color=ca1735&labelColor=09286e&logo=googlemaps&logoColor=white)](#) -->
-
-</div>
-
-<div align="center">
-
-👨‍💻 Software Engineer | Start-up Enthusiast 📈<br>
-🏀 NBA Fan |
-Table Tennis Player 🏓 <br>
-🌍 Avid Traveller | Global Foodie 🍲
-
-</div>
-
-## :globe_with_meridians: Languages
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img src="./assets/hero-light.svg" alt="Joel Cheah — Full Stack Engineer, Cloud & Platform. From interfaces to infrastructure." width="100%">
+</picture>
 
 <p align="center">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/typescript-037acb?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ff0808?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/R_Studio-276DC3?style=for-the-badge&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=uml&logoColor=black">
+  <a href="https://www.linkedin.com/in/joelcuy/"><strong>LinkedIn ↗</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:gjoelcheah@gmail.com"><strong>Say hello ↗</strong></a> &nbsp;·&nbsp;
+  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
+  <a href="#my-current-stack">My stack</a>
 </p>
 
-## :art: Frontend
+I'm **Joel**, a full-stack engineer working across **Malaysia and the United Kingdom**. I build web products, design backend systems, and automate cloud infrastructure — from TypeScript interfaces to AWS deployments.
+
+I like connecting the whole system — a useful interface, a dependable backend, a repeatable deployment — and seeing it make someone's working day easier.
 
 <p align="center">
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
-<img src="https://img.shields.io/badge/next.JS-007FFF?style=for-the-badge&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <strong>AWS Certified Solutions Architect – Associate</strong><br>
+  <sub>First Class Honours in Computing · University of Northampton</sub>
 </p>
 
-## :gear: Backend
+## Results I've delivered
 
-<p align="center">
-<img src="https://img.shields.io/badge/node.js-87bf01?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/koa-33333D?style=for-the-badge&logo=koa&logoColor=white">
-<img src="https://img.shields.io/badge/apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white">
-<img src="https://img.shields.io/badge/postgresql-31658c?style=for-the-badge&logo=postgresql&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white">
-<img src="https://img.shields.io/badge/mongodb-4caf50?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>&lt;3 hours</h3>
+      <strong>Environment provisioning</strong><br>
+      <sub>Previously ~1.5 weeks · Terraform IaC</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>~4–5 hours/day</h3>
+      <strong>Manual work saved</strong><br>
+      <sub>Automated reporting + data ingestion</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>80% fewer</h3>
+      <strong>Shipment-status enquiries</strong><br>
+      <sub>Customer-facing shipment tracking</sub>
+    </td>
+  </tr>
+</table>
 
-## :toolbox: Others
+**Current focus:** leading an AWS migration and improving cloud costs. Savings are already being realised, with a **target of ~76% lower recurring hosting costs (~USD 30,000/year) on completion**.
 
-<p align="center">
-<img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/android_studio-34A853?style=for-the-badge&logo=androidstudio&logoColor=white">
-<img src="https://img.shields.io/badge/github-e6e6e6?style=for-the-badge&logo=github&logoColor=black">
-<img src="https://img.shields.io/badge/postman-f76936?style=for-the-badge&logo=postman&logoColor=white">
-</p>
+## Selected work
 
-## :chart_with_upwards_trend: My Stats
+- **Increased product adoption.** Built a customer-facing tracking application with React, TypeScript, Node.js, and SQL Server, increasing daily active users by **20%** versus the legacy system and reducing status enquiries by **80%**.
+- **Consolidated a production platform.** Brought **6 production services** into a **pnpm + Turborepo monorepo** with shared UI, database, validation, logging, email, and runtime packages, enabling code reuse and consistent configuration.
+- **Made changes auditable.** Built an append-only audit trail that commits alongside business writes in the **same database transaction**, with field-level history and visibility controls. Added transactional email outbox processing with retries and delivery auditing.
+- **Automated repetitive operations.** Built **2 serverless workflows** using **Lambda, Step Functions, and SES** for reporting and data ingestion with a staff approval step, saving **~4–5 hours/day**. Extended automation with scheduled ECS tasks and interchangeable tracking-provider adapters.
+- **Streamlined releases.** Automated deployments to **ECS Fargate** and **Cloudflare Workers** through **GitHub Actions**, replacing manual releases and saving **~1–2 hours/week**. CI assumes AWS roles through OIDC.
+- **Made infrastructure repeatable.** Built reusable **Terraform** modules for AWS networking, compute, storage, email, and scheduling, cutting environment provisioning from **~1.5 weeks to &lt;3 hours**. Hardened internal access with **Cloudflare Zero Trust** and **Cognito/OIDC** authentication.
 
-<div align="center">
+<details>
+  <summary><strong>More experience & what I'm learning</strong></summary>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=%20joelcuy&theme=transparent&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <br>
 
-</div>
+  - **Real-time AI interfaces:** Integrated multilingual AI voice and LLM APIs into React + TypeScript dashboards, streaming live transcripts and intent events over WebSockets. Took frontend features from Figma to production-ready components.
+  - **Internal tools & UI/UX:** Led Svelte frontend development for problem reporting and facility booking, reducing development time by **2.5 weeks**. Applied Figma-based UI/UX improvements across BIM and facilities-management modules.
+  - **Peer mentoring:** Taught R/RStudio data analysis to **300+ students**, including data cleaning, visualisation, and statistical fundamentals.
+  - **Learning next:** Preparing for **AWS Solutions Architect – Professional** and continuing to explore platform architecture and cloud cost optimisation.
 
-<!--
-**joelcuy/joelcuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</details>
 
-Here are some ideas to get you started:
+## My current stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+| Layer | Tools I use |
+| :--- | :--- |
+| **Languages** | TypeScript · JavaScript · SQL |
+| **Frontend** | React · Vite · Tailwind CSS · TanStack Query & Table · Zustand · React Hook Form · React Aria |
+| **Backend & data** | Node.js · Express · Zod · Kysely · SQL Server · Prisma schema & type generation |
+| **Cloud & edge** | AWS ECS Fargate · Lambda · Step Functions · S3 · CloudFront · SES · Cognito · Cloudflare Workers & Zero Trust |
+| **Build & delivery** | Terraform · Docker · GitHub Actions · pnpm · Turborepo · Linux |
+| **Quality & design** | Vitest · Testing Library · Playwright · ESLint · Prettier · Figma |
+
+## Away from the keyboard
+
+**Table tennis has been part of my life for years** — I represented Negeri Sembilan at national competitions for five consecutive years. I also follow the NBA, travel for the food, and provide live Mandarin → English translation at church.
+
+English · Mandarin · Malay · conversational Cantonese. Always happy to talk software, cloud architecture, or where to find a good meal.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/rally-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/rally-light.svg">
+  <img src="./assets/rally-light.svg" alt="An animated table-tennis rally. Build things. Keep learning. Enjoy the rally." width="100%">
+</picture>
