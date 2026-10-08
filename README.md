@@ -11,7 +11,7 @@
   <a href="#my-current-stack">My stack</a>
 </p>
 
-I'm **Joel**, a full-stack engineer working across **Malaysia and the United Kingdom**. I enjoy startup environments and approach engineering with a **founder's mindset**: understand the business, focus on what matters, and build things that help the team move faster.
+I'm **Joel**, a full-stack engineer working across **Malaysia and the United Kingdom**. I enjoy startup environments and approach engineering with a **founder's mindset**: understand the business, focus on what matters, and build things that drives the business.
 
 <p align="center">
   <strong>AWS Certified Solutions Architect - Associate</strong><br>
@@ -24,7 +24,7 @@ I'm **Joel**, a full-stack engineer working across **Malaysia and the United Kin
 I've been building the **tech platform for a UK logistics company from the ground up**, connecting customer-facing apps, internal tools, and the infrastructure behind them.
 
 - **Workflow automation:** Scheduled reports and data ingestion with approval steps, reducing repetitive work for operations teams.
-- **A shared platform:** Consolidating apps in a **pnpm + Turborepo monorepo**, sharing business logic and UI so improvements reach multiple products faster.
+- **A shared platform:** Consolidating apps in a pnpm + Turborepo monorepo, sharing business logic and UI so improvements reach multiple products faster.
 - **Cloud & Terraform:** Repeatable infrastructure and automated deployments, using modern cloud architecture to simplify operations and reduce costs.
 
 ## My current stack
@@ -48,7 +48,7 @@ I've been building the **tech platform for a UK logistics company from the groun
 
 ## Away from the keyboard
 
-I represented **Negeri Sembilan in national table-tennis competitions for five consecutive years**. I also follow the NBA, travel for the food, and provide live Mandarin → English translation at church.
+I represented Negeri Sembilan in national table-tennis competitions for five years. I also follow the NBA, travel for the food, and do various volunteering at church.
 
 English · Mandarin · Malay · conversational Cantonese. Always happy to talk software, cloud architecture, or where to find a good meal.
 
